@@ -1,0 +1,4 @@
+# ninja log v6
+491	652	7697060467707883	Game_Of_Life_SDL2.exe	e47ddb74c42c5f31
+6	491	7697060462847881	CMakeFiles/Game_Of_Life_SDL2.dir/src/gameoflife.cpp.obj	f4f0f72759883149
+2	298	7697060462807888	CMakeFiles/Game_Of_Life_SDL2.dir/src/main.cpp.obj	5cde73ef08bced3b
