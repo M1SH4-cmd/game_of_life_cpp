@@ -1148,6 +1148,42 @@
 			],
 			"type" : "STATIC",
 			"value" : "C:/Users/6el0z/OneDrive/Desktop/Programming/Development/Projs/Game_Of_Life_SDL2"
+		},
+		{
+			"name" : "gameoflife_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/6el0z/OneDrive/Desktop/Programming/Development/Projs/Game_Of_Life_SDL2/cmake-build-debug"
+		},
+		{
+			"name" : "gameoflife_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "gameoflife_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/6el0z/OneDrive/Desktop/Programming/Development/Projs/Game_Of_Life_SDL2"
 		}
 	],
 	"kind" : "cache",

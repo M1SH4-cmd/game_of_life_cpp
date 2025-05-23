@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.30)
-project(Game_Of_Life_SDL2)
+project(gameoflife)
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -13,15 +13,15 @@ include_directories(${SDL2_PATH}/include)
 find_package(SDL2 REQUIRED)
 
 # Создание исполняемого файла
-add_executable(Game_Of_Life_SDL2
+add_executable(gameoflife
         src/main.cpp
         src/gameoflife.cpp
         include/gameoflife.h
         include/constants.h)
 
 # Подключение SDL2
-target_link_libraries(Game_Of_Life_SDL2 PRIVATE
+target_link_libraries(gameoflife PRIVATE
         ${SDL2_PATH}/lib/x64/SDL2.lib
         ${SDL2_PATH}/lib/x64/SDL2main.lib
 )
-target_include_directories(Game_Of_Life_SDL2 PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/include")
+target_include_directories(gameoflife PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/include")

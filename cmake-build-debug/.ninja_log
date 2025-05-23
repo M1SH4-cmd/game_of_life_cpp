@@ -1,4 +1,7 @@
 # ninja log v6
-491	652	7697060467707883	Game_Of_Life_SDL2.exe	e47ddb74c42c5f31
-6	491	7697060462847881	CMakeFiles/Game_Of_Life_SDL2.dir/src/gameoflife.cpp.obj	f4f0f72759883149
-2	298	7697060462807888	CMakeFiles/Game_Of_Life_SDL2.dir/src/main.cpp.obj	5cde73ef08bced3b
+811	1059	7697069743654480	Game_Of_Life_SDL2.exe	e47ddb74c42c5f31
+8	811	7697069735624166	CMakeFiles/Game_Of_Life_SDL2.dir/src/gameoflife.cpp.obj	8740c112c1c6a147
+4	601	7697069735574106	CMakeFiles/Game_Of_Life_SDL2.dir/src/main.cpp.obj	b1e037875f3b7cef
+2	581	7697077616569059	CMakeFiles/gameoflife.dir/src/main.cpp.obj	1872c7a556de6b5f
+6	777	7697077616609053	CMakeFiles/gameoflife.dir/src/gameoflife.cpp.obj	10f22eff2839b6f7
+777	1018	7697077624325712	gameoflife.exe	343e27e69a4aa8b6

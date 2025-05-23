@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Game_Of_Life_SDL2.exe"
+			"path" : "gameoflife.exe"
 		},
 		{
-			"path" : "Game_Of_Life_SDL2.pdb"
+			"path" : "gameoflife.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -89,7 +89,7 @@
 			]
 		}
 	],
-	"id" : "Game_Of_Life_SDL2::@6890427a1f51a3e7e1df",
+	"id" : "gameoflife::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -119,8 +119,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Game_Of_Life_SDL2",
-	"nameOnDisk" : "Game_Of_Life_SDL2.exe",
+	"name" : "gameoflife",
+	"nameOnDisk" : "gameoflife.exe",
 	"paths" : 
 	{
 		"build" : ".",
